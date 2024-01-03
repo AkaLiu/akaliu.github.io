@@ -18,10 +18,10 @@ Welcome! My name is Liu Tianyu. I am a fourth-year Ph.D. student at the [Institu
   * Relevant Coursework: xxx
   * Winter School of RWTH Aachen University, Germany, Febuary 2018
 
-## Selected Papers [[Full List](https://akaliu.github.io/academic-cv//publications/)]
+## Selected Papers [[Full List](https://akaliu.github.io/academic-cv/publications/)]
 * DFGC: DFG-Aware NoC Control Based on Time Stamp Prediction for Dataflow Architecture
-[[pdf](https://akaliu.github.io/academic-cv//files/iccd-paper.pdf)]
-[[slides](https://akaliu.github.io/academic-cv//files/iccd-presentation.pdf)]
+[[pdf](https://akaliu.github.io/academic-cv/files/iccd-paper.pdf)]
+[[slides](https://akaliu.github.io/academic-cv/files/iccd-presentation.pdf)]
 <b>Tianyu Liu</b>, Wenming Li, Zhihua Fan. <br>
 <i>International Conference on Computer Design</i> (**ICCD**), 2023. <b>CCF-B Conference</b>.
 
