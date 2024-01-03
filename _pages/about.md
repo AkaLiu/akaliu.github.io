@@ -29,7 +29,7 @@ Welcome! My name is Liu Tianyu. I am a fourth-year Ph.D. student at the [Institu
 ## Honors and Awards
 * Enterprise Scholarship, ICT, 2023
 * First Prize in Academic Scholarship, UCAS, 2023
-* Outstanding Volunteer for the Beijing 2022 Winter Olympic and Paralympic Games, UCAS, 2022
+* Outstanding Volunteer of the Beijing 2022 Winter Olympic and Paralympic Games, UCAS, 2022
 * Enterprise Scholarship, ICT, 2021
 * First Prize in Academic Scholarship, UCAS, 2021
 
