@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://akaliu.github.io/academic-cv/</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publications/</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/chinese/</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/files/iccd-paper.pdf</loc>
+  <lastmod>2024-01-03T12:10:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/files/iccd-presentation.pdf</loc>
+  <lastmod>2024-01-03T12:10:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publication/2023-12-01-Accelerating-Convolutional-Neural-Networks-by-Exploiting-the-Sparsity-of-Output-Activation</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publication/2023-07-01-A-High-accurate-Multi-objective-Exploration-Framework-for-Design-Space-of-CPU</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publication/2023-03-28-A-Loop-Optimization-Method-for-Dataflow-Architecture</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publication/2022-12-01-A-Routing-Aware-Mapping-Method-for-Dataflow-Architectures</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publication/2022-07-01-Characterization-and-Implementation-of-Radar-System-Applications-on-a-Reconfigurable-Dataflow-Architecture</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/publication/2022-03-01-LRP-Predictive-Output-Activation-Based-on-SVD-Approach-for-CNN-s-Acceleration</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/patents/2023-05-23-patent2</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/academic-cv/patents/2023-04-07-patent1</loc>
+  <lastmod>2024-01-03T12:11:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
