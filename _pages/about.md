@@ -34,7 +34,7 @@ Welcome! My name is Liu Tianyu. I am a fourth-year Ph.D. student at the [Institu
 * First Prize in Academic Scholarship, UCAS, 2021
 
   
-## Skills & Interests
+## Skills and Interests
 * Technical: C/C++, python, java, ...
 * Language: native Chinese speaker, English (TOFEL-94)
 * Interests: cooking, swimming, photography, ...
