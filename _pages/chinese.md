@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: ""
 permalink: /chinese/
 author_profile: true
 ---
