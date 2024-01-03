@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Liu Tianyu. I am a fourth-year Ph.D. student at the [Institute of Computing Technology](http://www.ict.ac.cn), Chinese Academy of Sciences, also with the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn).
+Welcome! I am a fourth-year Ph.D. student at the [Institute of Computing Technology](http://www.ict.ac.cn), Chinese Academy of Sciences, also with the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn).
 
 ## Education
 * PhD - Computer Science and Technology, Institute of Computing Technology, CAS, Beijing, China, Expected June 2026

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu Tianyu"
+title                    : "Tianyu Liu"
 title_separator          : "-"
-name                     : &name "Liu Tianyu"
+name                     : &name "Tianyu Liu"
 description              : &description "Personal description"
 url                      : https://akaliu.github.io/academic-cv # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liu Tianyu"
+  name             : "Tianyu Liu (刘天雨)"
   avatar           : "profile.png"
   bio              : "Keep Learning"
   location         : "Beijing, China"
