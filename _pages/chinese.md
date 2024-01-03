@@ -6,6 +6,7 @@ author_profile: true
 
 
 ## 学习经历
+
 | 时间                | 学位                            | 工作学习单位           | 专业                        |
 |:------------------- | :----------------------------- |:---------------------- |:-------------------------- |
 | 2020.9 - 至今      | 硕博连读            | 中国科学院计算技术研究所 | 计算机系统结构|
@@ -13,6 +14,7 @@ author_profile: true
 
 
 ## 代表性工作
+
 * DFGC: DFG-Aware NoC Control Based on Time Stamp Prediction for Dataflow Architecture
 [[pdf](https://akaliu.github.io/academic-cv//files/iccd-paper.pdf)]
 [[ppt](https://akaliu.github.io/academic-cv//files/iccd-presentation.pdf)]
@@ -20,9 +22,11 @@ author_profile: true
 <i>International Conference on Computer Design</i> (**ICCD**), 2023. <b>CCF-B 会议</b>.
 
 ## 参与项目
+
 * xxx
 
 ## 获奖情况
+
 * 2023年中国科学院大学学业奖一等奖 
 * 2022年三好学生标兵
 * 2021年中国科学院大学学业奖一等奖 
