@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /talks/    
+#  - title: "Presentations"
+#    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "中文介绍"
+    url: /chinese/
+
 #  - title: "Guide"
 #    url: /markdown/
