@@ -16,6 +16,7 @@ Welcome! I am a fourth-year Ph.D. student at the [Institute of Computing Technol
 
 * BA - Communication Engineering, Chien-Shiung Wu College, Southeast University, Nanjing, China, June 2020
   * Relevant Coursework: xxx
+  * Honor Graduate of SEU
   * Winter School of RWTH Aachen University, Germany, Febuary 2018
 
 ## Selected Papers [[Full List](https://akaliu.github.io/academic-cv/publications/)]
