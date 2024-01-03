@@ -3,6 +3,9 @@ title: ""
 permalink: /chinese/
 author_profile: true
 ---
+## 个人简介
+[cv](xxx)
+
 
 
 ## 学习经历
