@@ -18,7 +18,7 @@ author_profile: true
 
 ## 代表性工作
 
-[[完整论文列表](https://akaliu.github.io/academic-cv//publications/)]
+[[完整列表](https://akaliu.github.io/academic-cv//publications/)(论文&专利)]
 
 * DFGC: DFG-Aware NoC Control Based on Time Stamp Prediction for Dataflow Architecture
 [[pdf](https://akaliu.github.io/academic-cv//files/iccd-paper.pdf)]
