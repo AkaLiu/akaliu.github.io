@@ -16,9 +16,7 @@ author_profile: true
 | 2016.9 - 2020.6    | 本科                | 东南大学 | 通信工程|
 
 
-## 代表性工作
-
-[[完整列表](https://akaliu.github.io/academic-cv/publications/)(论文&专利)]
+## 代表性工作 [[完整列表](https://akaliu.github.io/academic-cv/publications/)]
 
 * DFGC: DFG-Aware NoC Control Based on Time Stamp Prediction for Dataflow Architecture
 [[pdf](https://akaliu.github.io/academic-cv/files/iccd-paper.pdf)]
