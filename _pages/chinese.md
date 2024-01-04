@@ -21,7 +21,7 @@ author_profile: true
 * DFGC: DFG-Aware NoC Control Based on Time Stamp Prediction for Dataflow Architecture
 [[pdf](https://akaliu.github.io/academic-cv/files/iccd-paper.pdf)]
 [[slides](https://akaliu.github.io/academic-cv/files/iccd-presentation.pdf)]
-[[video](https://drive.google.com/file/d/1myxa5YtLx6YrFwELE0Lr0SWWTjwLozqv/view?usp=share_link)]
+[[video](https://drive.google.com/file/d/1myxa5YtLx6YrFwELE0Lr0SWWTjwLozqv/view?usp=share_link)]<br>
 <b>Tianyu Liu</b>, Wenming Li, Zhihua Fan. <br>
 <i>International Conference on Computer Design</i> (**ICCD**), 2023. <b>CCF-B 会议</b>.
 
