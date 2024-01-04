@@ -16,11 +16,11 @@ author_profile: true
 | 2016.9 - 2020.6    | 本科                | 东南大学 | 通信工程|
 
 
-## 代表性工作 [[完整列表](https://akaliu.github.io/academic-cv/publications/)]
+## 代表性工作 [[完整列表](https://akaliu.github.io/publications/)]
 
 * DFGC: DFG-Aware NoC Control Based on Time Stamp Prediction for Dataflow Architecture
-[[pdf](https://akaliu.github.io/academic-cv/files/iccd-paper.pdf)]
-[[slides](https://akaliu.github.io/academic-cv/files/iccd-presentation.pdf)]
+[[pdf](https://akaliu.github.io/files/iccd-paper.pdf)]
+[[slides](https://akaliu.github.io/files/iccd-presentation.pdf)]
 [[video](https://drive.google.com/file/d/1myxa5YtLx6YrFwELE0Lr0SWWTjwLozqv/view?usp=share_link)]<br>
 <b>Tianyu Liu</b>, Wenming Li, Zhihua Fan. <br>
 <i>International Conference on Computer Design</i> (**ICCD**), 2023. <b>CCF-B 会议</b>.
