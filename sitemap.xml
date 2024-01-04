@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://akaliu.github.io/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publications/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/chinese/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/files/iccd-paper.pdf</loc>
+  <lastmod>2024-01-04T02:24:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/files/iccd-presentation.pdf</loc>
+  <lastmod>2024-01-04T02:24:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/sitemap/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2023-11-01-DFGC-DFG-aware-NoC-Control-Based-on-Time-Stamp-Prediction-for-Dataflow-Architecture</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2023-11-01-Alleviating-Transfer-Latency-in-DataFlow-Accelerator-for-DSP-Applications</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2023-12-01-Accelerating-Convolutional-Neural-Networks-by-Exploiting-the-Sparsity-of-Output-Activation</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2023-07-01-A-High-accurate-Multi-objective-Exploration-Framework-for-Design-Space-of-CPU</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2023-03-28-A-Loop-Optimization-Method-for-Dataflow-Architecture</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2022-12-01-A-Routing-Aware-Mapping-Method-for-Dataflow-Architectures</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2022-07-01-Characterization-and-Implementation-of-Radar-System-Applications-on-a-Reconfigurable-Dataflow-Architecture</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/publication/2022-03-01-LRP-Predictive-Output-Activation-Based-on-SVD-Approach-for-CNN-s-Acceleration</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/patents/2023-05-23-patent2</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/patents/2023-04-07-patent1</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/404.html</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/archive-layout-with-content/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/categories/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/collection-archive/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/cv/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/markdown/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/non-menu-page/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/page-archive/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/patents/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/portfolio/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/tags/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/talkmap.html</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/talks/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/teaching/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/terms/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/year-archive/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/markdown_generator/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/robots.txt</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/posts/2012/08/blog-post-4/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/posts/2014/08/blog-post-3/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/posts/2013/08/blog-post-2/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/posts/2012/08/blog-post-1/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/portfolio/portfolio-1/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/portfolio/portfolio-2/</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/talks/2023-11-iccd</loc>
+  <lastmod>2024-01-04T02:25:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://akaliu.github.io/talkmap/map.html</loc>
+  <lastmod>2024-01-04T02:24:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
