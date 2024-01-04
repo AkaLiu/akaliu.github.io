@@ -13,9 +13,10 @@ Welcome! I am a fourth-year Ph.D. student at the [Institute of Computing Technol
 ## Education
 * PhD - Computer Science and Technology, Institute of Computing Technology, CAS, Beijing, China, Expected June 2026
   * Student of a successive Master's and Doctoral Program, also with the University of Chinese Academy of Sciences (UCAS)
-
+  * Volunteer for the Beijing 2022 Winter Olympic and Paralympic Games
+  
 * BA - Communication Engineering, Chien-Shiung Wu College, Southeast University, Nanjing, China, June 2020
-  * Relevant Coursework: xxx
+  * Relevant Coursework: a paper about UAV Channel Measurement published in IEEE ACCESS [[pdf](https://doi.org/10.1109/ACCESS.2019.2929955)] 
   * Honor Graduate of SEU
   * Winter School of RWTH Aachen University, Germany, Febuary 2018
 
@@ -37,7 +38,7 @@ Welcome! I am a fourth-year Ph.D. student at the [Institute of Computing Technol
 
   
 ## Skills and Interests
-* Technical: C/C++, python, java, ...
+* Technical: C/C++, python, Latex, java, ...
 * Language: native Chinese speaker, English (TOFEL-94)
 * Interests: cooking, swimming, photography, ...
- 
+
