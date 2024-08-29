@@ -1,3 +1,5 @@
 _site/
 pub.bib
 proceedings.bib
+
+.DS_Store
