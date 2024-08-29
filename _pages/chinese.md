@@ -4,7 +4,7 @@ permalink: /chinese/
 author_profile: true
 ---
 ## 个人简介
-[cv](not available now)
+[cv](https://akaliu.github.io/files/resume.pdf)
 
 
 
