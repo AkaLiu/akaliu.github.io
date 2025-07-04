@@ -16,7 +16,6 @@ Welcome! I am a fifth-year Ph.D. student at the [Institute of Computing Technolo
   * Volunteer for the Beijing 2022 Winter Olympic and Paralympic Games
   
 * BA - Communication Engineering, Chien-Shiung Wu College, Southeast University, Nanjing, China, June 2020
-  * Relevant Coursework: a paper about UAV Channel Measurement published in IEEE Access [[pdf](https://doi.org/10.1109/ACCESS.2019.2929955)] 
   * Honor Graduate of SEU
   * Winter School of RWTH Aachen University, Germany, Febuary 2018
 
