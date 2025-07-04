@@ -24,7 +24,9 @@ author_profile: true
 [[video](https://drive.google.com/file/d/1myxa5YtLx6YrFwELE0Lr0SWWTjwLozqv/view?usp=share_link)]<br>
 <b>Tianyu Liu</b>, Wenming Li, Zhihua Fan. <br>
 <i>International Conference on Computer Design</i> (**ICCD**), 2023. <b>CCF-B 会议</b>.
+* DFU-E: A Dataflow Architecture for Edge DSP and AI Applications [[pdf](https://akaliu.github.io/files/tpds-paper.pdf)]<br> Wenming Li, Zhihua Fan, <b>Tianyu Liu</b>, et al.<br> <i>IEEE Transactions on Parallel and Distributed Systems</i> (**TPDS**), 2025. <b>CCF-A Journal</b>. 
 
+  
 ## 参与项目
 * 2022.8 - 至今 “DPU-f”芯片研发
   * 新一代路由模块及片上网络：设计新型拓扑互联提高片上数据传输效率和带宽
