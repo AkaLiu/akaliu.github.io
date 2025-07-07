@@ -3,10 +3,6 @@ title: ""
 permalink: /chinese/
 author_profile: true
 ---
-## 个人简介
-[cv](https://akaliu.github.io/files/resume.pdf)
-
-
 
 ## 学习经历
 
