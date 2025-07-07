@@ -24,7 +24,7 @@ author_profile: true
 [[video](https://drive.google.com/file/d/1myxa5YtLx6YrFwELE0Lr0SWWTjwLozqv/view?usp=share_link)]<br>
 <b>Tianyu Liu</b>, Wenming Li, Zhihua Fan. <br>
 <i>International Conference on Computer Design</i> (**ICCD**), 2023. <b>CCF-B 会议</b>.
-* DFU-E: A Dataflow Architecture for Edge DSP and AI Applications [[pdf](https://akaliu.github.io/files/tpds-paper.pdf)]<br> Wenming Li, Zhihua Fan, <b>Tianyu Liu</b>, et al.<br> <i>IEEE Transactions on Parallel and Distributed Systems</i> (**TPDS**), 2025. <b>CCF-A Journal</b>. 
+* DFU-E: A Dataflow Architecture for Edge DSP and AI Applications [[pdf](https://akaliu.github.io/files/tpds-paper.pdf)]<br> Wenming Li, Zhihua Fan, <b>Tianyu Liu</b>, et al.<br> <i>IEEE Transactions on Parallel and Distributed Systems</i> (**TPDS**), 2025. <b>CCF-A 期刊</b>. 
 
   
 ## 参与项目&科研工作
